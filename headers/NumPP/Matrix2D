@@ -1,0 +1,4 @@
+#ifndef NUMPP_MATRIX2D_H
+#define NUMPP_MATRIX2D_H
+#include "NumPP.h"
+#endif //NUMPP_MATRIX2D_H
