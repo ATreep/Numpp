@@ -284,7 +284,7 @@ namespace numpp {
     void show(const Matrix &matrix);
 
     /*
-     * Create a sum matrix of multiplying a matrix into a constant scalar.
+     * Create a matrix of multiplying a matrix into a constant scalar.
      * */
     Matrix multiply(const Matrix& matrix, double c);
 

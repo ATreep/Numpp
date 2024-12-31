@@ -10,6 +10,12 @@ Easy to Use, High-Readability, Slicing Matrices Like NumPy, and Accessing Matric
 
 
 
+## Usage
+
+Please read API doc of NumPP at [NumPP API Doc](doc/API_Doc.md).
+
+
+
 ## Features
 
 - Matrices Manipulation
@@ -49,7 +55,7 @@ int matOper() {
   
   numpp::Matrix rref = numpp::rref(aug);  // Calculate RREF form for matrix aug
   
-  mat[ED][0] = 0;  // Zero out the first column in matrix rref, similar to NumPy statement: `rref[:, 0] = 0`
+  mat[ED][0] = 0;  // Zero out the first column in matrix rref, similar to NumPy statement: `mat[:, 0] = 0`
   
   // Print all element in order with for-each
   for (double elem : mat)
@@ -61,7 +67,21 @@ int matOper() {
 
 
 
+See more usage examples at `usage_example.cpp`.
+
+
+
 ## Expected to Implement
 
 - Boolean operations for matrices
 - Conditional filter with index operators
+
+
+
+## Postscript
+
+Version: 0.0.1 (*This is the primitive version.*)
+
+Development period: 4 days.
+
+Welcom to post issues or contact me via treepzhang@outlook.com!
