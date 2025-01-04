@@ -5,7 +5,7 @@ English | [简体中文](./README.zh-CN.md)
 
 A header-only 2D linear algebra library, start the journey with NumPP by copying folder `header/NumPP` to your include directory.
 
-
+Note: NumPP does **NOT** support MSVC, and only standard c++11 and above.
 
 ## Introduction
 
@@ -83,7 +83,7 @@ See more usage examples at `usage_example.cpp`.
 
 ## Postscript
 
-Version: 0.0.1
+Version: 0.0.2
 
 Primitive development period: 4 days.
 

@@ -2,6 +2,7 @@
 #include <iostream>
 #include <random>
 #include <utility>
+#include <algorithm>
 
 namespace numpp {
     using std::cout;

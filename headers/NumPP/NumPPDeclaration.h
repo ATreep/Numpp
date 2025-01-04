@@ -131,7 +131,8 @@ namespace numpp {
             size_t cur_col;
 
         public:
-            using iterator_category = std::random_access_iterator_tag;
+            using iterator_category = std::bidirectional_iterator_tag;
+            using value_type = double;
             using pointer = double*;
             using reference = double&;
             using difference_type = std::ptrdiff_t;
