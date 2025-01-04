@@ -2,6 +2,7 @@
 #define NUMPP_H
 
 #include <vector>
+#include <cstdint>
 
 namespace numpp {
     int ED = INT32_MAX;
