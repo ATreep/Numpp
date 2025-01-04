@@ -1,6 +1,9 @@
+English | [简体中文](./README.zh-CN.md)
+
+
 # NumPP: C++ 2D Matrix Library
 
-A header-only 2D linear algebra library, start the journey with NumPP by copying folder `header/NumPy` to your include directory.
+A header-only 2D linear algebra library, start the journey with NumPP by copying folder `header/NumPP` to your include directory.
 
 
 
@@ -80,8 +83,8 @@ See more usage examples at `usage_example.cpp`.
 
 ## Postscript
 
-Version: 0.0.1 (*This is the primitive version.*)
+Version: 0.0.1
 
-Development period: 4 days.
+Primitive development period: 4 days.
 
-Welcom to post issues or contact me via treepzhang@outlook.com!
+Welcome to post issues or contact me via treepzhang@outlook.com!

@@ -1,3 +1,6 @@
+English | [简体中文](./API_Doc.zh-CN.md)
+
+
 # API Instruction
 
 This API instruction is going to interpret functions and operators of NumPP detailedly.
